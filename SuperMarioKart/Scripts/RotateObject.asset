@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a01d8df6ce358e4c97a3b98a3ecc00d, type: 3}
+  m_Name: RotateObject
+  m_EditorClassIdentifier: 
+  spriteRotations:
+  - sprite: {fileID: -1167121883898418613, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: 0
+  - sprite: {fileID: 1855269324140552040, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: 22.5
+  - sprite: {fileID: 2140153194473610657, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: 45
+  - sprite: {fileID: 7586219422303677083, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: 67.5
+  - sprite: {fileID: -8813478820353869211, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: 90
+  - sprite: {fileID: -7089384380879585402, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: 112.5
+  - sprite: {fileID: 3451869866301554749, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: 135
+  - sprite: {fileID: -5281159155274142537, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: 157.5
+  - sprite: {fileID: 6006731991514095234, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: 180
+  - sprite: {fileID: 4545254118072283706, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: -157.5
+  - sprite: {fileID: 827727051639498674, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: -135
+  - sprite: {fileID: -4191552299029400393, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: -112.5
+  - sprite: {fileID: 8658705140062688883, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: -90
+  - sprite: {fileID: -283553488494283500, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: -67.5
+  - sprite: {fileID: 9129261909147504499, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: -45
+  - sprite: {fileID: -1861618584797843716, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
+    rotation: -22.5
