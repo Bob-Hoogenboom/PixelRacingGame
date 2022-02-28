@@ -1,109 +1,109 @@
 fileFormatVersion: 2
-guid: 443c8a67911262745a52d317c60e73f1
+guid: 9e52694b1bb91c74a9d31bfa44ff5ef4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6006731991514095234
-    second: KartlessDKJRSheet_0
+      213: 4120955195336003847
+    second: Mario_0
   - first:
-      213: -5281159155274142537
-    second: KartlessDKJRSheet_1
+      213: -8340684894021347341
+    second: Mario_1
   - first:
-      213: -5460154753601791255
-    second: KartlessDKJRSheet_2
+      213: 8029536824772267597
+    second: Mario_2
   - first:
-      213: 3451869866301554749
-    second: KartlessDKJRSheet_3
+      213: -1516733375807340374
+    second: Mario_3
   - first:
-      213: -7089384380879585402
-    second: KartlessDKJRSheet_4
+      213: -1013760585851560218
+    second: Mario_4
   - first:
-      213: -8813478820353869211
-    second: KartlessDKJRSheet_5
+      213: -5383407867553921227
+    second: Mario_5
   - first:
-      213: 3848985563029976698
-    second: KartlessDKJRSheet_6
+      213: 7301754939111470067
+    second: Mario_6
   - first:
-      213: 7586219422303677083
-    second: KartlessDKJRSheet_7
+      213: 3366035027270568996
+    second: Mario_7
   - first:
-      213: -8940478173588332674
-    second: KartlessDKJRSheet_8
+      213: -4300721584263116383
+    second: Mario_8
   - first:
-      213: 2140153194473610657
-    second: KartlessDKJRSheet_9
+      213: -1281953291003957293
+    second: Mario_9
   - first:
-      213: 1855269324140552040
-    second: KartlessDKJRSheet_10
+      213: -5188551814952082331
+    second: Mario_10
   - first:
-      213: -1167121883898418613
-    second: KartlessDKJRSheet_11
+      213: -3289200234992376777
+    second: Mario_11
   - first:
-      213: -1861618584797843716
-    second: KartlessDKJRSheet_12
+      213: 5740100314215327209
+    second: Mario_12
   - first:
-      213: 9129261909147504499
-    second: KartlessDKJRSheet_13
+      213: 1109687603413664886
+    second: Mario_13
   - first:
-      213: -3929632837252083709
-    second: KartlessDKJRSheet_14
+      213: 4261312395823990064
+    second: Mario_14
   - first:
-      213: -283553488494283500
-    second: KartlessDKJRSheet_15
+      213: -4011714841779071252
+    second: Mario_15
   - first:
-      213: -6251646168107665419
-    second: KartlessDKJRSheet_16
+      213: -7940106292621141200
+    second: Mario_16
   - first:
-      213: 8658705140062688883
-    second: KartlessDKJRSheet_17
+      213: -4909874281342067639
+    second: Mario_17
   - first:
-      213: -4191552299029400393
-    second: KartlessDKJRSheet_18
+      213: 894007194499801496
+    second: Mario_18
   - first:
-      213: 827727051639498674
-    second: KartlessDKJRSheet_19
+      213: -8510317226010047069
+    second: Mario_19
   - first:
-      213: -1086573356220643520
-    second: KartlessDKJRSheet_20
+      213: 6642691414592863018
+    second: Mario_20
   - first:
-      213: 4545254118072283706
-    second: KartlessDKJRSheet_21
+      213: 1488931247178026643
+    second: Mario_21
   - first:
-      213: 8219151577993155403
-    second: KartlessDKJRSheet_22
+      213: -7064194740399109380
+    second: Mario_22
   - first:
-      213: -6557636526523506208
-    second: KartlessDKJRSheet_23
+      213: -6618893050237331622
+    second: Mario_23
   - first:
-      213: 2582300970824416783
-    second: KartlessDKJRSheet_24
+      213: -4044679514340094317
+    second: Mario_24
   - first:
-      213: 888989659829658330
-    second: DKJRFace1
+      213: 5366396704099230407
+    second: Mario_25
   - first:
-      213: -7280234111115753132
-    second: DKJRFace2
+      213: -5502867548003334652
+    second: Mario_26
   - first:
-      213: 4607696594476526109
-    second: DKJRFace3
+      213: 7997234602399742494
+    second: Mario_27
   - first:
-      213: 5017720950016461651
-    second: KartlessDKJRSheet_25
+      213: -8506341012516644137
+    second: Mario_28
   - first:
-      213: 3975069645246055170
-    second: KartlessDKJRSheet_26
+      213: -1183818458030727065
+    second: Mario_29
   - first:
-      213: -6529116273833609501
-    second: KartlessDKJRSheet_27
+      213: -2576767851460239226
+    second: Mario_30
   - first:
-      213: -5151384312060573266
-    second: KartlessDKJRSheet_28
+      213: -8007405914943326720
+    second: Mario_31
   - first:
-      213: 3368415812907213803
-    second: KartlessDKJRSheet_29
+      213: -897317605072193822
+    second: Mario_32
   - first:
-      213: -3942441109526463136
-    second: KartlessDKJRSheet_30
+      213: 7338185634055069252
+    second: Mario_33
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -135,7 +135,7 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: 1
+    aniso: 2
     mipBias: 0
     wrapU: 1
     wrapV: 1
@@ -167,7 +167,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: 4
     textureCompression: 1
@@ -179,9 +179,45 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -193,7 +229,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: KartlessDKJRSheet_0
+      name: Mario_0
       rect:
         serializedVersion: 2
         x: 0
@@ -201,20 +237,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28e1c27dbe23c5350800000000000000
-      internalID: 6006731991514095234
+      spriteID: 7019d499ae2903930800000000000000
+      internalID: 4120955195336003847
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_1
+      name: Mario_1
       rect:
         serializedVersion: 2
         x: 32
@@ -222,20 +258,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7bc2593aabd85b6b0800000000000000
-      internalID: -5281159155274142537
+      spriteID: 3f7146c974fef3c80800000000000000
+      internalID: -8340684894021347341
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_2
+      name: Mario_2
       rect:
         serializedVersion: 2
         x: 64
@@ -243,20 +279,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ea97e44e22a934b0800000000000000
-      internalID: -5460154753601791255
+      spriteID: d4e08772335ae6f60800000000000000
+      internalID: 8029536824772267597
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_3
+      name: Mario_3
       rect:
         serializedVersion: 2
         x: 96
@@ -264,20 +300,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3087c7ca5187ef20800000000000000
-      internalID: 3451869866301554749
+      spriteID: aa0460cd70b73fae0800000000000000
+      internalID: -1516733375807340374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_4
+      name: Mario_4
       rect:
         serializedVersion: 2
         x: 128
@@ -285,20 +321,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68f387d77727d9d90800000000000000
-      internalID: -7089384380879585402
+      spriteID: 6ee96094e166ee1f0800000000000000
+      internalID: -1013760585851560218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_5
+      name: Mario_5
       rect:
         serializedVersion: 2
         x: 160
@@ -306,20 +342,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56af06d65bb30b580800000000000000
-      internalID: -8813478820353869211
+      spriteID: 537c765211b4a45b0800000000000000
+      internalID: -5383407867553921227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_6
+      name: Mario_6
       rect:
         serializedVersion: 2
         x: 192
@@ -327,20 +363,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a76320e0af75a6530800000000000000
-      internalID: 3848985563029976698
+      spriteID: 3f371b64e6b055560800000000000000
+      internalID: 7301754939111470067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_7
+      name: Mario_7
       rect:
         serializedVersion: 2
         x: 224
@@ -348,20 +384,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9a649efe5aa74960800000000000000
-      internalID: 7586219422303677083
+      spriteID: 42c0cf5f50f86be20800000000000000
+      internalID: 3366035027270568996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_8
+      name: Mario_8
       rect:
         serializedVersion: 2
         x: 0
@@ -369,20 +405,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7f5225487a0de380800000000000000
-      internalID: -8940478173588332674
+      spriteID: 1a9442c5184c054c0800000000000000
+      internalID: -4300721584263116383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_9
+      name: Mario_9
       rect:
         serializedVersion: 2
         x: 32
@@ -390,20 +426,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ad5489cdf953bd10800000000000000
-      internalID: 2140153194473610657
+      spriteID: 3dfe01f1646953ee0800000000000000
+      internalID: -1281953291003957293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_10
+      name: Mario_10
       rect:
         serializedVersion: 2
         x: 64
@@ -411,20 +447,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86f9314ee9d3fb910800000000000000
-      internalID: 1855269324140552040
+      spriteID: 564a21b4d9f8ef7b0800000000000000
+      internalID: -5188551814952082331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_11
+      name: Mario_11
       rect:
         serializedVersion: 2
         x: 96
@@ -432,20 +468,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4a66ac84dc8dcfe0800000000000000
-      internalID: -1167121883898418613
+      spriteID: 734e52e20d96a52d0800000000000000
+      internalID: -3289200234992376777
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_12
+      name: Mario_12
       rect:
         serializedVersion: 2
         x: 128
@@ -453,20 +489,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cfeebd9a2c33a26e0800000000000000
-      internalID: -1861618584797843716
+      spriteID: 9e5a9ebc2dee8af40800000000000000
+      internalID: 5740100314215327209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_13
+      name: Mario_13
       rect:
         serializedVersion: 2
         x: 160
@@ -474,20 +510,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37fcd346657a1be70800000000000000
-      internalID: 9129261909147504499
+      spriteID: 6744025fef6666f00800000000000000
+      internalID: 1109687603413664886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_14
+      name: Mario_14
       rect:
         serializedVersion: 2
         x: 192
@@ -495,20 +531,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30011ed21c32779c0800000000000000
-      internalID: -3929632837252083709
+      spriteID: 035ce0eeb09332b30800000000000000
+      internalID: 4261312395823990064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_15
+      name: Mario_15
       rect:
         serializedVersion: 2
         x: 224
@@ -516,20 +552,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 415b973ca9d901cf0800000000000000
-      internalID: -283553488494283500
+      spriteID: ce6989b3b968358c0800000000000000
+      internalID: -4011714841779071252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_16
+      name: Mario_16
       rect:
         serializedVersion: 2
         x: 0
@@ -537,20 +573,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f7b288cee0bd39a0800000000000000
-      internalID: -6251646168107665419
+      spriteID: 03b197535631fc190800000000000000
+      internalID: -7940106292621141200
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_17
+      name: Mario_17
       rect:
         serializedVersion: 2
         x: 32
@@ -558,20 +594,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3761948f276e92870800000000000000
-      internalID: 8658705140062688883
+      spriteID: 94c97c0da5f9cdbb0800000000000000
+      internalID: -4909874281342067639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_18
+      name: Mario_18
       rect:
         serializedVersion: 2
         x: 64
@@ -579,20 +615,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b471ee446d94d5c0800000000000000
-      internalID: -4191552299029400393
+      spriteID: 891edc68ec6286c00800000000000000
+      internalID: 894007194499801496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_19
+      name: Mario_19
       rect:
         serializedVersion: 2
         x: 96
@@ -600,20 +636,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b724f33e5dac7b00800000000000000
-      internalID: 827727051639498674
+      spriteID: 3ad88c1929745e980800000000000000
+      internalID: -8510317226010047069
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_20
+      name: Mario_20
       rect:
         serializedVersion: 2
         x: 128
@@ -621,20 +657,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04780181a47bbe0f0800000000000000
-      internalID: -1086573356220643520
+      spriteID: a2b3857a5a49f2c50800000000000000
+      internalID: 6642691414592863018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_21
+      name: Mario_21
       rect:
         serializedVersion: 2
         x: 160
@@ -642,20 +678,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a327491e98cf31f30800000000000000
-      internalID: 4545254118072283706
+      spriteID: 39e8603a41fb9a410800000000000000
+      internalID: 1488931247178026643
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_22
+      name: Mario_22
       rect:
         serializedVersion: 2
         x: 0
@@ -663,20 +699,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b439f5130da401270800000000000000
-      internalID: 8219151577993155403
+      spriteID: cfa0452bf40f6fd90800000000000000
+      internalID: -7064194740399109380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_23
+      name: Mario_23
       rect:
         serializedVersion: 2
         x: 32
@@ -684,20 +720,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e1a07ea2589ef4a0800000000000000
-      internalID: -6557636526523506208
+      spriteID: a575d46d6d7f424a0800000000000000
+      internalID: -6618893050237331622
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_24
+      name: Mario_24
       rect:
         serializedVersion: 2
         x: 64
@@ -705,83 +741,83 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0eb2252d0d26d320800000000000000
-      internalID: 2582300970824416783
+      spriteID: 39e857d49696ed7c0800000000000000
+      internalID: -4044679514340094317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DKJRFace1
+      name: Mario_25
       rect:
         serializedVersion: 2
-        x: 105
-        y: 72
-        width: 15
-        height: 16
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad26423b263565c00800000000000000
-      internalID: 888989659829658330
+      spriteID: 7c269a7be55497a40800000000000000
+      internalID: 5366396704099230407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DKJRFace2
+      name: Mario_26
       rect:
         serializedVersion: 2
-        x: 137
-        y: 72
-        width: 15
-        height: 16
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4598345f5a967fa90800000000000000
-      internalID: -7280234111115753132
+      spriteID: 4068c3bde13e1a3b0800000000000000
+      internalID: -5502867548003334652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DKJRFace3
+      name: Mario_27
       rect:
         serializedVersion: 2
-        x: 169
-        y: 72
-        width: 15
-        height: 16
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1aec8ad3a3d1ff30800000000000000
-      internalID: 4607696594476526109
+      spriteID: e1abf7def72ebfe60800000000000000
+      internalID: 7997234602399742494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_25
+      name: Mario_28
       rect:
         serializedVersion: 2
         x: 0
@@ -789,20 +825,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35b44c77e9682a540800000000000000
-      internalID: 5017720950016461651
+      spriteID: 7dadb9aeae763f980800000000000000
+      internalID: -8506341012516644137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_26
+      name: Mario_29
       rect:
         serializedVersion: 2
         x: 32
@@ -810,41 +846,41 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 203445218c84a2730800000000000000
-      internalID: 3975069645246055170
+      spriteID: 7602782726b329fe0800000000000000
+      internalID: -1183818458030727065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_27
+      name: Mario_30
       rect:
         serializedVersion: 2
         x: 64
-        y: 33
+        y: 32
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e6fce8775be365a0800000000000000
-      internalID: -6529116273833609501
+      spriteID: 680e0199a4b7d3cd0800000000000000
+      internalID: -2576767851460239226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_28
+      name: Mario_31
       rect:
         serializedVersion: 2
         x: 0
@@ -852,20 +888,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea90c1ae24b9288b0800000000000000
-      internalID: -5151384312060573266
+      spriteID: 006f073debaffd090800000000000000
+      internalID: -8007405914943326720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_29
+      name: Mario_32
       rect:
         serializedVersion: 2
         x: 32
@@ -873,20 +909,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be3a420d5540fbe20800000000000000
-      internalID: 3368415812907213803
+      spriteID: 2e6b7f274661c83f0800000000000000
+      internalID: -897317605072193822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KartlessDKJRSheet_30
+      name: Mario_33
       rect:
         serializedVersion: 2
         x: 64
@@ -894,14 +930,14 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06d37c6e2b2a949c0800000000000000
-      internalID: -3942441109526463136
+      spriteID: 44e1abd64f876d560800000000000000
+      internalID: 7338185634055069252
       vertices: []
       indices: 
       edges: []
@@ -909,7 +945,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: d03e4893af965c94ba0b8ceaf9055082
     internalID: 0
     vertices: []
     indices: 

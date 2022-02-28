@@ -14,10 +14,10 @@ public class KartController : MonoBehaviour
 
     [SerializeField] private bool _isGrounded;
 
-    [SerializeField] private float _rayToGroundLength = 1f;
+    [SerializeField] private float _rayToGroundLength = 2f;
 
     [SerializeField] private float _groundDrag = 4f;
-    [SerializeField] private float _airDrag = .1f;
+    [SerializeField] private float _airDrag = .7f;
     
     [SerializeField] private float _kartSpeed = 100f;
     [SerializeField] private float _reverseSpeed = 50f;

@@ -14,7 +14,7 @@ public class SpeedRampScroll : MonoBehaviour
         GetComponent<Renderer>().material.mainTextureOffset = new Vector2(0, offSetY);
     }
 
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerStay(Collider other)
     {
         other.attachedRigidbody.AddForce(Vector3.forward * _speedBoost);
         print("Triggered!!");

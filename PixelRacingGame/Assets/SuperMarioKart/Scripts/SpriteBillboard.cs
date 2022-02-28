@@ -1,13 +1,9 @@
-﻿using System;
-using UnityEngine;
-using System.Collections;
-using System.Collections.Generic;
+﻿using UnityEngine;
 
 	public class SpriteBillboard : MonoBehaviour
 	{
 		public CameraDirection cameraDirection;
 		
-		public List<RotationSprite> sprites = new List<RotationSprite>();
 		public RotationSprite rotationSprite;
 
 		private SpriteRenderer _sprite;
@@ -27,7 +23,6 @@ using System.Collections.Generic;
 
 		void Update()
 		{
-
 			Vector3 targetPoint = new Vector3(cameraDirection.transform.position.x, _t.position.y, cameraDirection.transform.position.z) - transform.position;
 			_billboard.rotation = Quaternion.LookRotation(-targetPoint, Vector3.up);
 
