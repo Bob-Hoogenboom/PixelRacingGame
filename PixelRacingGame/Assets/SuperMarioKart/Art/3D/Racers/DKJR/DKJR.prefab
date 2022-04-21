@@ -9,7 +9,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2796777971713689366}
-  - component: {fileID: 2796777971713689367}
   m_Layer: 0
   m_Name: DKJR
   m_TagString: Untagged
@@ -34,30 +33,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2796777971713689367
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2796777971713689365}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 55a1965e83c5e0f4abfd414a183c7d85, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _sphereRB: {fileID: 7175467223140957241}
-  _groundLayer:
-    serializedVersion: 2
-    m_Bits: 64
-  _isGrounded: 1
-  _rayToGroundLength: 2
-  _groundDrag: 4
-  _airDrag: 0.7
-  _kartSpeed: 100
-  _reverseSpeed: 50
-  _turnSpeed: 1
-  _gravity: 9.81
 --- !u!1001 &423661304643250339
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -184,11 +159,6 @@ PrefabInstance:
 --- !u!4 &7175467223140957254 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4991193260380351635, guid: bae9844929eece442baa12891c7a2d3b, type: 3}
-  m_PrefabInstance: {fileID: 2796777972500861141}
-  m_PrefabAsset: {fileID: 0}
---- !u!54 &7175467223140957241 stripped
-Rigidbody:
-  m_CorrespondingSourceObject: {fileID: 4991193260380351724, guid: bae9844929eece442baa12891c7a2d3b, type: 3}
   m_PrefabInstance: {fileID: 2796777972500861141}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &3853977812837414373
