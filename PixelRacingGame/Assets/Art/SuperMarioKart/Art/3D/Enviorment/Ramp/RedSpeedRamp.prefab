@@ -96,7 +96,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _scrollSpeed: -0.7
-  _speedBoost: 2000
+  _speedBoost: 1000
 --- !u!65 &639056733352906994
 BoxCollider:
   m_ObjectHideFlags: 0

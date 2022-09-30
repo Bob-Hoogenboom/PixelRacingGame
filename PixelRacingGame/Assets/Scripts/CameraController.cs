@@ -5,7 +5,6 @@ using UnityEditor.Build.Reporting;
 
 	public class CameraController : MonoBehaviour
 	{
-
 		public Transform target;
 		public float angleY = 20;
 		public float rotationSmoothing = 10;
@@ -15,14 +14,14 @@ using UnityEditor.Build.Reporting;
 		private Vector3 _angle = new Vector3();
 		private Quaternion _oldRotation = new Quaternion();
 
-		private Transform _t;
+		private Transform _transform;
 
-		public Vector2 CurrentRotation { get { return _angle; } }
+		public Vector2 currentRotation { get { return _angle; } }
 
 		void Start()
 		{
-			_t = transform;
-			_oldRotation = _t.rotation;
+			_transform = transform;
+			_oldRotation = _transform.rotation;
 			_angle.y = angleY;
 		}
 
@@ -44,8 +43,8 @@ using UnityEditor.Build.Reporting;
 
 				_oldRotation = currentRotation;
 
-				_t.position = target.position - currentRotation * Vector3.forward * distance;
-				_t.LookAt(target.position, Vector3.up);
+				_transform.position = target.position - currentRotation * Vector3.forward * distance;
+				_transform.LookAt(target.position, Vector3.up);
 			}
 		}
 	}

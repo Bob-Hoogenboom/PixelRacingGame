@@ -485,5 +485,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlockFort
       objectReference: {fileID: 0}
+    - target: {fileID: 2670011148097104150, guid: ce5cf56b40e887d43b26097673f5e667, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ce5cf56b40e887d43b26097673f5e667, type: 3}
