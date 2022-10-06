@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a01d8df6ce358e4c97a3b98a3ecc00d, type: 3}
+  m_Name: CheepCheepRotation
+  m_EditorClassIdentifier: 
+  name: Cheep-Cheep
+  spriteRotations:
+  - sprite: {fileID: 297669450769308721, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 0
+  - sprite: {fileID: 1891123282724751233, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 15
+  - sprite: {fileID: 5050790747161209595, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 30
+  - sprite: {fileID: 2471881316519893603, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 45
+  - sprite: {fileID: 1107992480210946531, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 60
+  - sprite: {fileID: -4355960032891749359, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 75
+  - sprite: {fileID: 8626201714897581129, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 90
+  - sprite: {fileID: 8626201714897581129, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 108
+  - sprite: {fileID: 7711765199089216295, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 126
+  - sprite: {fileID: 8277363609581332103, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 144
+  - sprite: {fileID: -4431154856156683891, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 162
+  - sprite: {fileID: 8342463870254743733, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 180
+  - sprite: {fileID: 8195363726934384834, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 198
+  - sprite: {fileID: 374183661303535359, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 216
+  - sprite: {fileID: 357267346363258771, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 234
+  - sprite: {fileID: -6849204752307609840, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 252
+  - sprite: {fileID: -5767998554233143356, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 270
+  - sprite: {fileID: -2711748102684321385, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 285
+  - sprite: {fileID: -2940768801255472576, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 300
+  - sprite: {fileID: -959570098175641825, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 315
+  - sprite: {fileID: 2257856474675009936, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 330
+  - sprite: {fileID: 8780765311512569839, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
+    rotation: 345

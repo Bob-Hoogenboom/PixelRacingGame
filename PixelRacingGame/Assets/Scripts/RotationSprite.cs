@@ -5,6 +5,8 @@ using UnityEngine;
 [CreateAssetMenu]
 public class RotationSprite : ScriptableObject
 {
+    public string name;
+
     [System.Serializable]
     public class Data
     {
