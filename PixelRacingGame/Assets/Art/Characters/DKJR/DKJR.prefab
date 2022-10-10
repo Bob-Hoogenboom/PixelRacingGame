@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1870541742}
   m_Layer: 0
   m_Name: DKJR
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47,14 +47,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _sphereRB: {fileID: 0}
-  _groundLayer:
-    serializedVersion: 2
-    m_Bits: 0
+  _layers: []
   _isGrounded: 0
   _rayToGroundLength: 2
   _groundDrag: 4
-  _airDrag: 0.7
-  _kartSpeed: 100
+  _airDrag: 0.5
+  _kartSpeed: 150
   _reverseSpeed: 50
   _turnSpeed: 1
   _gravity: 9.81

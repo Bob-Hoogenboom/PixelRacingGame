@@ -23,6 +23,7 @@ using UnityEditor.Build.Reporting;
 			_transform = transform;
 			_oldRotation = _transform.rotation;
 			_angle.y = angleY;
+			target = GameObject.FindWithTag("Player").transform;
 		}
 
 		void Update()

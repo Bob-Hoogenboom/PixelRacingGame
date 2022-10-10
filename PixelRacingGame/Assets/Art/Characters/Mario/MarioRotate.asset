@@ -12,36 +12,50 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a01d8df6ce358e4c97a3b98a3ecc00d, type: 3}
   m_Name: MarioRotate
   m_EditorClassIdentifier: 
+  name: Mario
+  emblem: {fileID: 2100000, guid: a5dd859a29dc4af49819870d1bdafc4f, type: 2}
   spriteRotations:
   - sprite: {fileID: -3289200234992376777, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
     rotation: 0
   - sprite: {fileID: -5188551814952082331, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
-    rotation: 22.5
+    rotation: 15
   - sprite: {fileID: -1281953291003957293, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
+    rotation: 30
+  - sprite: {fileID: -4300721584263116383, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
     rotation: 45
   - sprite: {fileID: 3366035027270568996, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
-    rotation: 67.5
+    rotation: 60
+  - sprite: {fileID: 7301754939111470067, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
+    rotation: 75
   - sprite: {fileID: -5383407867553921227, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
     rotation: 90
   - sprite: {fileID: -1013760585851560218, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
-    rotation: 112.5
+    rotation: 108
   - sprite: {fileID: -1516733375807340374, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
-    rotation: 135
+    rotation: 126
+  - sprite: {fileID: 8029536824772267597, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
+    rotation: 144
   - sprite: {fileID: -8340684894021347341, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
-    rotation: 157.5
+    rotation: 162
   - sprite: {fileID: 4120955195336003847, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
     rotation: 180
   - sprite: {fileID: 1488931247178026643, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
-    rotation: 202.5
+    rotation: 198
+  - sprite: {fileID: 6642691414592863018, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
+    rotation: 216
   - sprite: {fileID: -8510317226010047069, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
-    rotation: 225
+    rotation: 234
   - sprite: {fileID: 894007194499801496, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
-    rotation: 247.5
+    rotation: 252
   - sprite: {fileID: -4909874281342067639, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
     rotation: 270
+  - sprite: {fileID: -7940106292621141200, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
+    rotation: 285
   - sprite: {fileID: -4011714841779071252, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
-    rotation: 292.5
-  - sprite: {fileID: 1109687603413664886, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
+    rotation: 300
+  - sprite: {fileID: 4261312395823990064, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
     rotation: 315
+  - sprite: {fileID: 1109687603413664886, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
+    rotation: 330
   - sprite: {fileID: 5740100314215327209, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}
-    rotation: 337.5
+    rotation: 345

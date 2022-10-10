@@ -18,6 +18,7 @@
 		{
 			_t = transform;
 			_sprite = GetComponentInChildren<SpriteRenderer>();
+			cameraDirection = GameObject.FindWithTag("MainCamera").GetComponent<CameraDirection>();
 			_billboard = _sprite.transform;
 		}
 

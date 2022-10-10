@@ -10,7 +10,7 @@ public class KartController : MonoBehaviour
 {
     [SerializeField] private Rigidbody _sphereRB; //*interpolation needs to be selected*
 
-    [SerializeField] private LayerMask _groundLayer;
+    [SerializeField] private LayerMask[] _layers;
 
     [SerializeField] private bool _isGrounded;
 
@@ -31,12 +31,12 @@ public class KartController : MonoBehaviour
     private void Start()
     {
         _sphereRB = gameObject.GetComponentInChildren<Rigidbody>();
-        _groundLayer = LayerMask.GetMask("Circuit");
         _sphereRB.transform.parent = null;
     }
 
     private void Update()
     {
+        //new movement system?
         _moveInput = Input.GetAxisRaw("Vertical");
         _turnInput = Input.GetAxisRaw("Horizontal");
         
@@ -47,12 +47,13 @@ public class KartController : MonoBehaviour
         float newRotation = _turnInput * _turnSpeed * Time.deltaTime * _moveInput;
         transform.Rotate(0, newRotation, 0, Space.World);
 
-        GroundChecker();
         DragCheck();
     }
 
     private void FixedUpdate()
     {
+        GroundChecker();
+
         if (_isGrounded)
         {
             _sphereRB.AddForce(transform.forward * _moveInput, ForceMode.Acceleration);
@@ -78,7 +79,7 @@ public class KartController : MonoBehaviour
     private void GroundChecker()
     {
         RaycastHit hit;
-        _isGrounded = Physics.Raycast(transform.position, -transform.up, out hit, _rayToGroundLength , _groundLayer );
+        _isGrounded = Physics.Raycast(transform.position, -transform.up, out hit, _rayToGroundLength);
         transform.rotation = Quaternion.FromToRotation(transform.up, hit.normal)* transform.rotation;
     }
 }
