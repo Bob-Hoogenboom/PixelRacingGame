@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a01d8df6ce358e4c97a3b98a3ecc00d, type: 3}
   m_Name: CheepCheepRotation
   m_EditorClassIdentifier: 
-  name: Cheep-Cheep
+  driverName: CheepCheep
+  emblem: {fileID: 2100000, guid: 25a771eeeb4b5754e9d0242ed040260b, type: 2}
   spriteRotations:
   - sprite: {fileID: 297669450769308721, guid: 57077e2888f943e448ad3ff153c3678a, type: 3}
     rotation: 0

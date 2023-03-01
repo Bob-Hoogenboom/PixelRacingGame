@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a01d8df6ce358e4c97a3b98a3ecc00d, type: 3}
   m_Name: MarioRotate
   m_EditorClassIdentifier: 
-  name: Mario
+  driverName: Mario
   emblem: {fileID: 2100000, guid: a5dd859a29dc4af49819870d1bdafc4f, type: 2}
   spriteRotations:
   - sprite: {fileID: -3289200234992376777, guid: 9e52694b1bb91c74a9d31bfa44ff5ef4, type: 3}

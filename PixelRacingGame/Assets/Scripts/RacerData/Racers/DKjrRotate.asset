@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a01d8df6ce358e4c97a3b98a3ecc00d, type: 3}
   m_Name: DKjrRotate
   m_EditorClassIdentifier: 
-  name: DKJR
-  emblem: {fileID: 0}
+  driverName: DKJR
+  emblem: {fileID: 2100000, guid: 63c1addd87e341f4f8b7666136dd599f, type: 2}
   spriteRotations:
   - sprite: {fileID: -1167121883898418613, guid: 443c8a67911262745a52d317c60e73f1, type: 3}
     rotation: 0

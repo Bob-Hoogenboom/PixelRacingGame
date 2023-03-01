@@ -2,10 +2,10 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-[CreateAssetMenu(menuName = "Driver")]
+[CreateAssetMenu(menuName = "Racer")]
 public class RotationSprite : ScriptableObject
 {
-    public string name;
+    public string driverName;
     public Material emblem;
 
     [System.Serializable]
